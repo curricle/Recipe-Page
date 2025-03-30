@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/recipe-page-with-flexbox-and-css-grid-AaAr0HZzSv)
 - Live Site URL: [GitHub Pages](https://curricle.github.io/Recipe-Page/)
 
 ## My process
